@@ -1,4 +1,4 @@
-# COVID-19 effect on USA outbound International Travel
+# COVID-19 Analysis on USA outbound International Travel
 
 ### Task
 
