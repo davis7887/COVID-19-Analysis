@@ -16,4 +16,4 @@
 
 ### Dashboard
 
-<img src="https://21066571.fs1.hubspotusercontent-na1.net/hubfs/21066571/Covid-19%20Analysis%20on%20USA%20International%20Outbound%20Travel.001.jpeg" width="400" height="200" />
+<img src="https://21066571.fs1.hubspotusercontent-na1.net/hubfs/21066571/Covid-19%20Analysis%20on%20USA%20International%20Outbound%20Travel.001.jpeg" width="700" height="400" />
