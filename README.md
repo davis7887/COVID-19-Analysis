@@ -12,7 +12,8 @@
 ### Tools
 
 * BigQuery SQL server for data analysis - Click [HERE](https://github.com/davis7887/COVID-19-Analysis/blob/main/covid_usa_travel.sql) for SQL scripts
-* Tableau for data visualization - Click HERE to see dashboard
+* Tableau for data visualization - Click [HERE](https://public.tableau.com/views/Covid-19AnalysisonUSAInternationalOutboundTravel/OutboundDepartures?:language=en-US&:display_count=n&:origin=viz_share_link) to see dashboard
 
-### Posted On
+### Dashboard
 
+<img src="https://21066571.fs1.hubspotusercontent-na1.net/hubfs/21066571/Covid-19%20Analysis%20on%20USA%20International%20Outbound%20Travel.001.jpeg" width="400" height="200" />
