@@ -1,5 +1,6 @@
 # COVID-19 Analysis on USA outbound International Travel
 
+## [Demo Link](https://public.tableau.com/views/Covid-19AnalysisonUSAInternationalOutboundTravel/OutboundDepartures?:language=en-US&:display_count=n&:origin=viz_share_link)
 ### Task
 
 #### Analyze Covid-19 data and determine correlations between cases, vaccinations, and USA international outbound flight departures.
